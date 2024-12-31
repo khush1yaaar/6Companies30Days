@@ -52,6 +52,6 @@ public class city_with_the_smallest_number_of_neighbours_in_threshold {
             {1, 3, 4},
             {2, 3, 1}
         };
-        System.out.println(findTheCity(4, edges, 4));        
+        System.out.println(findTheCity(4, edges, 4)); // 3  
     }
 }
